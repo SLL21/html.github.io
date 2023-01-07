@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <style>
+        #header{
+            background-color:#996666;
+            color:white;
+            text-align:center;
+            font-size:20px;
+            padding:2px;
+        }
+        #nav {
+            line-height:30px;
+            background-color:goldenrod;
+            height:460px;
+            width:100px;
+            float:left;
+            padding:5px;	      
+        }
+        
+        </style>
+        </head>
+
+<body style="background-color:cornsilk">
+
+<div id="header">
+<h3>喜歡議題(一)：FinTech金融科技</h3>
+</div>
+
+<div id="section">
+<p>
+體驗過行動支付和手機轉帳後，就能深深體會朋友間出去吃飯、娛樂還要想錢有沒有帶夠是多麼的惱人。
+<br/>
+拜金融科技所賜，出門玩兩三天也不用再帶著一大堆錢或到處找ATM，能用行動支付就用銀行帳戶直接付款，
+若是要跟別人收錢也不怕收到大鈔沒零錢的問題。
+<br/>
+要說缺點就是用行動支付消費就沒有錢包越來越輕薄的感覺，無形增加過度消費的可能，以及些微交易上的安全問題
+，否則光是FinTech的「行動支付」和「點對點匯款」就已讓我的生活消費品質大幅提升！
+</p>
+<p>
+。<a href="https://go.commeet.co/blog/%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B/fintech/" target="_blank">何謂 FinTech？科技串聯金融生態圈，驅動數位創新應用服務</a>
+</p>
+<p>
+。<a href="https://www.cdic.gov.tw/upload/cont_att/32-3-1.pdf" target="_blank">金融科技發展與銀行經營型態的演變</a>
+</p>
+</div>
+
+<a href="C:\Users\VivoBook S14\OneDrive\桌面\html\homepage.html">返回主頁</a>
+
+</body>
+</html>

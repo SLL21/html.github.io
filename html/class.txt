@@ -1,0 +1,135 @@
+<html>
+
+<head>
+<style>
+#header{
+    background-color:#996666;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+</style>
+</head>>
+
+<body>
+    
+<body style="background-color:cornsilk"></body>
+<div id="header">
+<h3>我的課表</h3>
+</div>
+
+<p>
+<table border="3">
+
+<tr>
+<td width="70" align="center">MON.</td>
+<td width="70" align="center">TUE.</td>
+<td width="70" align="center">WED.</td>
+<td width="70" align="center">THU.</td>
+<td width="70" align="center">FRI.</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center">大一英文</td>
+<td rowspan="2" align="center">國防</td>
+<td rowspan="2" align="center">大一英文</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td>&nbsp;</td>
+<td rowspan="3" align="center">程式設計</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center">自然通識</td>
+<td rowspan="2" align="center">羽球</td>
+<td rowspan="2" align="center">微積分</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+</tr>
+
+<tr>
+<td colspan="5">&nbsp;</td>
+</tr>
+
+<tr>
+<td >&nbsp;</td>
+<td >&nbsp;</td>
+<td >&nbsp;</td>
+<td >&nbsp;</td>
+<td >&nbsp;</td>
+</tr>
+
+
+<tr>
+<td rowspan="3" align="center">管理學</td>
+<td rowspan="3" align="center">計算機<br/>概論</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td rowspan="2"align="center" >中文</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+
+
+<td>&nbsp;</td>
+<td rowspan="2" align="center">微積分</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td rowspan="3">程式設計</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<br/>
+<a href="C:\Users\VivoBook S14\OneDrive\桌面\html\homepage.html">返回主頁</a>
+
+
+
+
+</body>
+</html>
